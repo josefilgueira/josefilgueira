@@ -73,7 +73,7 @@ Interactive Tableau dashboard analyzing loan operations by country, time, and lo
 🔗 Repository:  
 [https://github.com/tuusuario/tableau-loan-analysis  ](https://github.com/josefilgueira/Tableau-Loan-Analysis-Dashboard)
 🔗 Tableau Public:  
-https://public.tableau.com/profile/jose.filgueira.orge
+https://public.tableau.com/app/profile/jose.filgueira.orge/viz/Tarea_Tableau_Jose_Filgueira_Orge/DASHBOARD
 
 ---
 

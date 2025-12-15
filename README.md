@@ -35,7 +35,7 @@ I am particularly interested in **applied data science**, analytics, and busines
 Supervised learning project focused on predicting stroke risk using clinical and lifestyle data, with careful preprocessing, imbalance handling, model comparison, and interpretability.
 
 🔗 Repository:  
-https://github.com/tuusuario/stroke-risk-prediction-ml
+[https://github.com/tuusuario/stroke-risk-prediction-ml](https://github.com/josefilgueira/Master-s-Thesis-Stroke-Risk-Prediction-with-Machine-Learning)
 
 ---
 
@@ -44,7 +44,7 @@ https://github.com/tuusuario/stroke-risk-prediction-ml
 Applied statistical analysis covering descriptive statistics, confidence intervals, and hypothesis testing.
 
 🔗 Repository:  
-https://github.com/tuusuario/statistical-analysis-inference
+[https://github.com/tuusuario/statistical-analysis-inference](https://github.com/josefilgueira/Statistical-Analysis-and-Inference)
 
 ---
 
@@ -53,7 +53,7 @@ https://github.com/tuusuario/statistical-analysis-inference
 Analytical SQL queries over relational sales and forecast data, including aggregations, joins, and business-oriented metrics.
 
 🔗 Repository:  
-https://github.com/tuusuario/sql-sales-forecast-analysis
+[https://github.com/tuusuario/sql-sales-forecast-analysis](https://github.com/josefilgueira/SQL-Sales-and-Forecast-Analysis)
 
 ---
 
@@ -62,7 +62,7 @@ https://github.com/tuusuario/sql-sales-forecast-analysis
 Data exploration, cleaning, and aggregation using MongoDB’s Aggregation Framework on a movies dataset.
 
 🔗 Repository:  
-https://github.com/tuusuario/mongodb-nosql-data-analysis
+[https://github.com/tuusuario/mongodb-nosql-data-analysis](https://github.com/josefilgueira/NoSQL-Data-Analysis-with-MongoDB)
 
 ---
 
@@ -71,7 +71,7 @@ https://github.com/tuusuario/mongodb-nosql-data-analysis
 Interactive Tableau dashboard analyzing loan operations by country, time, and loan value.
 
 🔗 Repository:  
-https://github.com/tuusuario/tableau-loan-analysis  
+[https://github.com/tuusuario/tableau-loan-analysis  ](https://github.com/josefilgueira/Tableau-Loan-Analysis-Dashboard)
 🔗 Tableau Public:  
 https://public.tableau.com/profile/jose.filgueira.orge
 
@@ -82,7 +82,7 @@ https://public.tableau.com/profile/jose.filgueira.orge
 Supervised learning project focused on linear regression modeling and interpretation using Python.
 
 🔗 Repository:  
-https://github.com/tuusuario/applied-machine-learning-regression
+https://github.com/josefilgueira/Machine-Learning-Fundamentals
 
 ---
 
@@ -91,7 +91,7 @@ https://github.com/tuusuario/applied-machine-learning-regression
 Introduction to deep learning using fully connected neural networks on tabular data.
 
 🔗 Repository:  
-https://github.com/tuusuario/deep-learning-dense-networks
+https://github.com/josefilgueira/Deep-Learning-Dense-Neural-Networks-with-Keras
 
 ---
 
@@ -100,7 +100,7 @@ https://github.com/tuusuario/deep-learning-dense-networks
 Fundamentals of distributed data processing using Spark DataFrames, aggregations, and joins.
 
 🔗 Repository:  
-https://github.com/tuusuario/spark-data-processing-fundamentals
+[https://github.com/tuusuario/spark-data-processing-fundamentals](https://github.com/josefilgueira/Apache-Spark-Distributed-Data-Processing-Fundamentals)
 
 ---
 
@@ -108,15 +108,15 @@ https://github.com/tuusuario/spark-data-processing-fundamentals
 Additional Python repositories focused on data handling, analysis, and experimentation.
 
 🔗 Repositories:
-- https://github.com/tuusuario/python-project-1  
-- https://github.com/tuusuario/python-project-2  
+[- https://github.com/tuusuario/python-project-1  ](https://github.com/josefilgueira/Advanced-Python-Practice-Hostname-Dataset-Generator)
+[- https://github.com/tuusuario/python-project-2  ](https://github.com/josefilgueira/First-Python-Application)
 
 ---
 
 ## 📬 Contact & Links
 
-- **GitHub:** https://github.com/tuusuario  
-- **LinkedIn:** https://www.linkedin.com/in/tuusuario  
+- **GitHub:** [https://github.com/tuusuario  ](https://github.com/josefilgueira)
+- **LinkedIn:** [https://www.linkedin.com/in/tuusuario  ](https://www.linkedin.com/in/jose-filgueira-orge/)
 
 ---
 

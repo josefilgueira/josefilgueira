@@ -117,7 +117,6 @@ Additional Python repositories focused on data handling, analysis, and experimen
 
 - **GitHub:** https://github.com/tuusuario  
 - **LinkedIn:** https://www.linkedin.com/in/tuusuario  
-- **Tableau Public:** https://public.tableau.com/profile/jose.filgueira.orge
 
 ---
 
